@@ -71,7 +71,7 @@ form{width:90%}
 .bouton-devis4:hover,.bouton-devis3:hover{background-color:#15225e}
 .bouton-devis1:hover,.form-container button:hover{background-color:#15225e}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
-.contact-icon,.realisation,.container,.bouton-devis4,.icon-anime{display:none}
+.realisation,.container,.bouton-devis4,.icon-anime{display:none}
 @media screen and (max-width:767.98px) {
 h1,h2{color:#000}
 h4,p{color:#000;text-align:center}
@@ -132,8 +132,6 @@ body{margin-top:17%}
 #contact{padding-top:4%;padding-bottom:4%;margin-top:20%}
 #contact h5{margin-top:10%;margin-bottom:5%;color:#fff;font-weight:600}
 #contact p{text-align:center;margin:0 0 3%;color:#fff;font-size:15px}
-.contact-icon{display:flex;position:fixed;padding:1% 2%;right:4%;bottom:5%;border-radius:20px;background-color:#15225e}
-.contact-icon a{font-size:18px;font-weight:500;color:#fff;text-decoration:none}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:5%}
 .liens-wp{margin-bottom:-3%}
 .form-container h2{font-size:25px;margin-top:2%;margin-bottom:10%}
