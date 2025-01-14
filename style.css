@@ -56,7 +56,7 @@ form{width:90%}
 .realisation-pc img{width:20%;height:auto}
 .contenu img{display:flex;justify-content:center;width:15%;height:auto;margin:7% auto 5%}
 .contenu h3{font-size:22px;margin-bottom:3%}
-.contenu2 img{display:flex;justify-content:center;width:50%;height:auto;margin:5% auto 3%}
+.contenu2 img{display:flex;justify-content:center;width:35%;height:auto;margin:5% auto 3%}
 .contenu2 p{margin-left:3%;margin-right:3%;text-align:left}
 .contenu2 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
 #contact{margin-top:10%;padding:2%;background-color:#15225e}
@@ -69,7 +69,7 @@ form{width:90%}
 .bouton-devis3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%}
 .bouton-devis4{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
 .bouton-devis4:hover,.bouton-devis3:hover{background-color:#15225e;color: #ffbd5a;}
-.bouton-devis1:hover,.form-container button:hover{background-color:#15225e}
+.bouton-devis1:hover,.form-container button:hover{background-color:#15225e;color: #ffbd5a;}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
 .realisation,.container,.bouton-devis4,.icon-anime{display:none}
 @media screen and (max-width:767.98px) {
