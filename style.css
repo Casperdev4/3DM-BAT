@@ -18,15 +18,17 @@ p{color:#000;font-size:19px;margin-left:5%;margin-right:5%;text-align:center;pad
 form{width:90%}
 .histoire{background-color:#15225e;padding:2% 0;width:100%;margin:10% auto}
 .histoire h4,.histoire p{color:#fff}
-#tarif{background-color:#fff;padding:2%;width:95%;margin:10% auto;border: solid #15225e 2px;border-radius: 15px;}
+#tarif{background-color:#fff;padding:2%;width:55%;margin:10% auto;border: solid #15225e 2px;border-radius: 15px;}
 #tarif h2,#tarif h3,#tarif p{color:#000}
+#tarif h2 {margin-top: 1%;}
+#tarif h3 {margin-top: 5%;margin-bottom: 2%;}
 #tarif p{text-align:left}
 .valeur h3,.valeur h4{margin-bottom:0}
 .valeur h3,.valeur h4,.valeur p{text-align:left;color:#15225e}
-.valeur{background-color:#fff;width:90%;margin-left:auto;margin-right:auto;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border: 2px solid #15225e;border-radius: 15px;}
+.valeur{background-color:#fff;width:90%;margin-bottom: 3%;margin-left:auto;margin-right:auto;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border: 2px solid #15225e;border-radius: 15px;}
 .valeur.slide-in-done{opacity:1;transform:translateX(0)}
 .valeur .confiance{display:flex;align-items:center;margin-top:5%;margin-left:2%;font-size:35px;text-align:left}
-.valeur h3{display:flex;align-items:center;font-size:30px;}
+.valeur h3{display:flex;align-items:center;font-size:30px;margin-top: -2%;}
 .valeur h4{font-size:20px;margin-top:3%}
 .valeur p{margin-left:0;color:#000;font-size:16px;margin-top:0}
 .icon,.logo,.navbar{display:flex}
@@ -64,9 +66,9 @@ form{width:90%}
 .liens-wp a,.liens-wp p{color:#fff;font-size:12px}
 .bouton-devis1{background-color:#15225e;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
 .bouton-devis2{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
-.bouton-devis3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
+.bouton-devis3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%}
 .bouton-devis4{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
-.bouton-devis4:hover,.bouton-devis3:hover{background-color:#15225e}
+.bouton-devis4:hover,.bouton-devis3:hover{background-color:#15225e;color: #ffbd5a;}
 .bouton-devis1:hover,.form-container button:hover{background-color:#15225e}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
 .realisation,.container,.bouton-devis4,.icon-anime{display:none}
