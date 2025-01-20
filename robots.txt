@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /dossier/traitement.php
+Disallow: /traitement.php
+Disallow: /mentions-legales.html
 Sitemap: https://assainissement93.fr/sitemap.xml
