@@ -9,12 +9,12 @@ h4{margin:5% 3%;font-size:20px;font-weight:350}
 hr{width:20%;margin-left:auto;margin-right:auto;height:6px;background:#15225e;border-radius:15px}
 p{color:#000;font-size:19px;margin-left:5%;margin-right:5%;text-align:center;padding:2%;line-height:1.7;word-spacing:5px}
 .strong-color{color:#15225e}
-.form-container h2{font-size:22px;margin-top:3%;margin-bottom:3%;color: #fff;}
-.form-container{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:50%;background:#15225e;padding:20px;box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);color:#fff;border-radius:20px}
-.form-container label{display:block;margin-bottom:8px;font-size:20px}
-.form-container input,.form-container select{width:100%;height:35px;padding:8px;margin-bottom:16px;box-sizing:border-box;border-radius:10px;border:1px solid #333;background-color:#f2f2f2;color:#000}
-.form-container button{display:flex;justify-content:center;background-color:#f19b2a;color:#222;padding:10px 80px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}
-.form-container textarea{width:100%;padding:8px;margin-bottom:3%;box-sizing:border-box;border-radius:10px;border:1px solid #333;background-color:#f2f2f2;color:#000;resize:vertical}
+.form-contact h2{font-size:22px;margin-top:3%;margin-bottom:3%;color: #fff;}
+.form-contact{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:50%;background:#15225e;padding:20px;box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);color:#fff;border-radius:20px}
+.form-contact label{display:block;margin-bottom:8px;font-size:20px}
+.form-contact input,.form-contact select{width:100%;height:35px;padding:8px;margin-bottom:16px;box-sizing:border-box;border-radius:10px;border:1px solid #333;background-color:#f2f2f2;color:#000}
+.form-contact button{display:flex;justify-content:center;background-color:#f19b2a;color:#222;padding:10px 80px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}
+.form-contact textarea{width:100%;padding:8px;margin-bottom:3%;box-sizing:border-box;border-radius:10px;border:1px solid #333;background-color:#f2f2f2;color:#000;resize:vertical}
 form{width:90%}
 .histoire{background-color:#15225e;padding:2% 0;width:100%;margin:10% auto}
 .histoire h4,.histoire p{color:#fff}
@@ -43,35 +43,35 @@ form{width:90%}
 .drop-item a,.nav-item a,.show{color:#000;text-decoration:none;font-size:1.2rem;line-height:3;display:block;text-align:center}
 .drop-item a{margin-left:8%;font-size:1rem}
 .nav-menu a:hover,.show:hover{color:#ffbd5a}
-.image-index{position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;height:650px}
+.gg{position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;height:650px}
 .background-image{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:-1}
-.image-index h1{color:#15225e;width:80%;margin-top:auto;z-index:1;font-family:Georgia,serif;background-color:rgba(255,255,255,0.2);border-radius: 10px;}
-.container-index{display:flex;align-items:center;margin-top:7%;margin-bottom:7%}
-.container-index .text{text-align:center}
+.gg h1{color:#15225e;width:80%;margin-top:auto;z-index:1;font-family:Georgia,serif;background-color:rgba(255,255,255,0.2);border-radius: 10px;}
+.servi1{display:flex;align-items:center;margin-top:7%;margin-bottom:7%}
+.servi1 .text{text-align:center}
 .image{width:40%;margin-left:5%;height:260px}
-.container-index2{display:flex;align-items:center;margin-top:7%;margin-bottom:7%}
+.servi2{display:flex;align-items:center;margin-top:7%;margin-bottom:7%}
 .image2{width:40%;height:260px;margin-right:5%}
-.container-index2 .text2{text-align:center}
+.servi2 .text2{text-align:center}
 .realisation-pc{display:flex;justify-content:center;margin-top:5%;margin-bottom:7%;gap:5%}
 .realisation-pc img{width:20%;height:auto}
-.contenu img{display:flex;justify-content:center;width:15%;height:auto;margin:7% auto 5%}
-.contenu h3{font-size:22px;margin-bottom:3%}
-.contenu2 img{display:flex;justify-content:center;width:35%;height:auto;margin:5% auto 3%}
-.contenu2 p{margin-left:3%;margin-right:3%;text-align:left}
-.contenu2 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
+.text-ind img{display:flex;justify-content:center;width:15%;height:auto;margin:7% auto 5%}
+.text-ind h3{font-size:22px;margin-bottom:3%}
+.text-ind2 img{display:flex;justify-content:center;width:35%;height:auto;margin:5% auto 3%}
+.text-ind2 p{margin-left:3%;margin-right:3%;text-align:left}
+.text-ind2 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
 #contact{margin-top:10%;padding:2%;background-color:#15225e}
 #contact h5{text-align:center;margin:5% 3% 3%;color:#fff;font-weight:600;font-size:20px}
 #contact p{color:#fff}
 .liens a{margin:0;color:#fff;font-size:16px}
 .liens-wp a,.liens-wp p{color:#fff;font-size:12px}
-.bouton-devis1{background-color:#15225e;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
-.bouton-devis2{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
-.bouton-devis3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%}
-.bouton-devis4{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
-.bouton-devis4:hover,.bouton-devis3:hover{background-color:#15225e;color: #ffbd5a;}
-.bouton-devis1:hover,.form-container button:hover{background-color:#15225e;color: #ffbd5a;}
+.bbb{background-color:#15225e;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
+.bb2{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
+.bb3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%}
+.bb{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
+.bb:hover,.bb3:hover{background-color:#15225e;color: #ffbd5a;}
+.bbb:hover,.form-contact button:hover{background-color:#15225e;color: #ffbd5a;}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
-.realisation,.container,.bouton-devis4,.icon-anime{display:none}
+.realisation,.container,.bb,.mobserv{display:none}
 @media screen and (max-width:767.98px) {
 h1,h2{color:#000}
 h4,p{color:#000;text-align:center}
@@ -84,11 +84,11 @@ hr{width:40%;margin-bottom:2%}
 p{font-size:19px;margin-left:5%;margin-right:5%;padding:2%}
 .histoire p,.valeur p{color:#fff;font-size:17px}
 body{margin-top:17%}
-.icon-anime{display:flex;flex-direction:column;align-items:center}
-.icon-anime h3{opacity:0;transform:translateY(50px);transition:opacity .5s,transform .5s;margin-top:3%}
-.icon-anime h3.slide-up,.bouton-devis3.slide-up{opacity:1;transform:translateY(0)}
-.contenu2 p{margin-left:3%;margin-right:3%}
-.contenu2 h3{font-size:20px;text-align:left;margin:10% 5% 3% 6%}
+.mobserv{display:flex;flex-direction:column;align-items:center}
+.mobserv h3{opacity:0;transform:translateY(50px);transition:opacity .5s,transform .5s;margin-top:3%}
+.mobserv h3.slide-up,.bb3.slide-up{opacity:1;transform:translateY(0)}
+.text-ind2 p{margin-left:3%;margin-right:3%}
+.text-ind2 h3{font-size:20px;text-align:left;margin:10% 5% 3% 6%}
 .icon-item1{text-align:center;margin:5px 0;position:relative; width: 90%;margin-left: auto;margin-right: auto;padding: 3%;border: solid 1px #9e9e9e;border-radius: 15px;box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);margin-bottom: 4%;}
 .icon-item1 img{width:90%;height:auto;margin-bottom:3%;border-radius: 10px;}
 .icon-item1 p{margin-bottom:2%;font-size:22px;margin-top: 0;}
@@ -104,11 +104,11 @@ body{margin-top:17%}
 .nav-menu{position:absolute;top:98%}
 .drop-item a,.nav-item a,.show{color:#000;text-decoration:none;font-size:1.2rem;line-height:2.5}
 .drop-item a{margin-left:8%;font-size:1.1rem}
-.image-index{background-size:cover;background-position:center;background-repeat:no-repeat;height:350px;position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
-#nos-valeurs,#prestation,#realisation,.histoire{margin-top:15%}
+.gg{background-size:cover;background-position:center;background-repeat:no-repeat;height:350px;position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
+#val,#prestation,#realisation,.histoire{margin-top:15%}
 #prestation{margin-top:17%}
 #tarif{margin-top:15%;margin-bottom:15%;width: 93%;}
-#nos-valeurs{margin-bottom:13%}
+#val{margin-bottom:13%}
 .valeur .confiance,.valeur h3{display:flex;text-align:left;margin-top:5%}
 .valeur{padding-left:3%;padding-right:3%;margin-bottom:10%;margin-left:auto;margin-right:auto;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;width: 93%;}
 .valeur .confiance{align-items:center;margin-left:5%;font-size:40px}
@@ -116,17 +116,17 @@ body{margin-top:17%}
 .valeur h4,.valeur p{color:#15225e;text-align:left;margin-top:3%}
 .valeur h4{font-size:15px;margin-bottom:0}
 .valeur p{margin-left:0;font-size:14px;padding-bottom:5%;font-weight:100}
-.contenu h2,.contenu2 h2{font-size:25px;margin:15% 2% 4%}
-.contenu img{display:flex;width:30%;margin-left:auto;margin-right:auto;margin-top:15%}
-.contenu2 img{display:flex;width:90%;margin:8% auto 4%}
-.contenu2 p{margin-left:3%;margin-right:3%}
-.contenu2 h3{font-size:20px;text-align:left;margin:10% 5% 3% 6%}
-.contenu h3{margin-top:5%;margin-bottom:7%}
-.contenu p,.contenu2 p{text-align:left}
-.bouton-devis1{padding:2% 8%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
-.bouton-devis2{font-size:18px;padding:3%;margin:5% 20% 7%}
-.bouton-devis3{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:5% 15% 10%}
-.bouton-devis4{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:10% 20% 13%}
+.text-ind h2,.text-ind2 h2{font-size:25px;margin:15% 2% 4%}
+.text-ind img{display:flex;width:30%;margin-left:auto;margin-right:auto;margin-top:15%}
+.text-ind2 img{display:flex;width:90%;margin:8% auto 4%}
+.text-ind2 p{margin-left:3%;margin-right:3%}
+.text-ind2 h3{font-size:20px;text-align:left;margin:10% 5% 3% 6%}
+.text-ind h3{margin-top:5%;margin-bottom:7%}
+.text-ind p,.text-ind2 p{text-align:left}
+.bbb{padding:2% 8%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
+.bb2{font-size:18px;padding:3%;margin:5% 20% 7%}
+.bb3{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:5% 15% 10%}
+.bb{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:10% 20% 13%}
 .realisation{display:flex;justify-content:center;margin-bottom:10%}
 .realisation img{width:80%;height:auto;margin:0 2%}
 #contact{padding-top:4%;padding-bottom:4%;margin-top:20%}
@@ -134,12 +134,12 @@ body{margin-top:17%}
 #contact p{text-align:center;margin:0 0 3%;color:#fff;font-size:15px}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:5%}
 .liens-wp{margin-bottom:-3%}
-.form-container h2{font-size:25px;margin-top:2%;margin-bottom:10%}
-.form-container{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:90%;padding:20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);color:#fff}
-.form-container label{display:block;margin-bottom:8px;margin-left:2%;font-size:20px}
-.form-container input,.form-container select{width:100%;height:35px;padding:8px;margin-bottom:16px;box-sizing:border-box}
-.form-container button{display:flex;justify-content:center;padding:10px 40px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}
-.form-container button:hover{background-color:#ffbd5a}
+.form-contact h2{font-size:25px;margin-top:2%;margin-bottom:10%}
+.form-contact{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:90%;padding:20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);color:#fff}
+.form-contact label{display:block;margin-bottom:8px;margin-left:2%;font-size:20px}
+.form-contact input,.form-contact select{width:100%;height:35px;padding:8px;margin-bottom:16px;box-sizing:border-box}
+.form-contact button{display:flex;justify-content:center;padding:10px 40px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}
+.form-contact button:hover{background-color:#ffbd5a}
 form{width:95%}
-.realisation-pc,.container-index,.container-index2{display:none}
+.realisation-pc,.servi1,.servi2{display:none}
 }
