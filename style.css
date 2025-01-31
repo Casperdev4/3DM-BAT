@@ -52,8 +52,8 @@ form{width:90%}
 .servi2{display:flex;align-items:center;margin-top:7%;margin-bottom:7%}
 .image2{width:40%;height:260px;margin-right:5%}
 .servi2 .text2{text-align:center}
-.realisation-pc{display:flex;justify-content:center;margin-top:5%;margin-bottom:7%;gap:5%}
-.realisation-pc img{width:20%;height:auto}
+.pcr{display:flex;justify-content:center;margin-top:5%;margin-bottom:7%;gap:5%}
+.pcr img{width:20%;height:auto}
 .text-ind img{display:flex;justify-content:center;width:15%;height:auto;margin:7% auto 5%}
 .text-ind h3{font-size:22px;margin-bottom:3%}
 .text-ind2 img{display:flex;justify-content:center;width:35%;height:auto;margin:5% auto 3%}
@@ -71,7 +71,7 @@ form{width:90%}
 .bb:hover,.bb3:hover{background-color:#15225e;color: #ffbd5a;}
 .bbb:hover,.form-contact button:hover{background-color:#15225e;color: #ffbd5a;}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
-.realisation,.container,.bb,.mobserv{display:none}
+.mobr,.container,.bb,.mobserv{display:none}
 @media screen and (max-width:767.98px) {
 h1,h2{color:#000}
 h4,p{color:#000;text-align:center}
@@ -105,7 +105,7 @@ body{margin-top:17%}
 .drop-item a,.nav-item a,.show{color:#000;text-decoration:none;font-size:1.2rem;line-height:2.5}
 .drop-item a{margin-left:8%;font-size:1.1rem}
 .gg{background-size:cover;background-position:center;background-repeat:no-repeat;height:350px;position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
-#val,#prestation,#realisation,.histoire{margin-top:15%}
+#val,#prestation,#mobr,.histoire{margin-top:15%}
 #prestation{margin-top:17%}
 #tarif{margin-top:15%;margin-bottom:15%;width: 93%;}
 #val{margin-bottom:13%}
@@ -127,8 +127,8 @@ body{margin-top:17%}
 .bb2{font-size:18px;padding:3%;margin:5% 20% 7%}
 .bb3{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:5% 15% 10%}
 .bb{display:flex;justify-content:center;font-size:18px;padding:2%;text-decoration:none;margin:10% 20% 13%}
-.realisation{display:flex;justify-content:center;margin-bottom:10%}
-.realisation img{width:80%;height:auto;margin:0 2%}
+.mobr{display:flex;justify-content:center;margin-bottom:10%}
+.mobr img{width:80%;height:auto;margin:0 2%}
 #contact{padding-top:4%;padding-bottom:4%;margin-top:20%}
 #contact h5{margin-top:10%;margin-bottom:5%;color:#fff;font-weight:600}
 #contact p{text-align:center;margin:0 0 3%;color:#fff;font-size:15px}
@@ -141,5 +141,5 @@ body{margin-top:17%}
 .form-contact button{display:flex;justify-content:center;padding:10px 40px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}
 .form-contact button:hover{background-color:#ffbd5a}
 form{width:95%}
-.realisation-pc,.servi1,.servi2{display:none}
+.pcr,.servi1,.servi2{display:none}
 }
