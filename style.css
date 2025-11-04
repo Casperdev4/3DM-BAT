@@ -64,9 +64,9 @@ form{width:90%}
 #contact p{color:#fff}
 .liens a{margin:0;color:#fff;font-size:16px}
 .liens-wp a,.liens-wp p{color:#fff;font-size:12px}
-.bbb{background-color:#15225e;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}
-.bb2{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
-.bb3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%}
+.bbb{background-color:#15225e;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%;box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5)}
+.bb2{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%;box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5)}
+.bb3{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 40%;box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5)}
 .bb{display:flex;justify-content:center;background-color:#ffbd5a;color:#15225e;font-size:22px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 25%}
 .bb:hover,.bb3:hover{background-color:#15225e;color: #ffbd5a;}
 .bbb:hover,.form-contact button:hover{background-color:#15225e;color: #ffbd5a;}
