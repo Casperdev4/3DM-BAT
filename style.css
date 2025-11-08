@@ -72,6 +72,18 @@ form{width:90%}
 .bbb:hover,.form-contact button:hover{background-color:#15225e;color: #ffbd5a;}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
 .mobr,.container,.bb,.mobserv{display:none}
+
+.hp-wrap {
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
 @media screen and (max-width:767.98px) {
 h1,h2{color:#000}
 h4,p{color:#000;text-align:center}
