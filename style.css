@@ -80,7 +80,7 @@ form{width:90%}
     width: 0;
     overflow: hidden;
     opacity: 0;
-    pointer-events: none;
+    pointer-events: none;
 }
 
 @media screen and (max-width:767.98px) {
