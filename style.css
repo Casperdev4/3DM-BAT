@@ -72,6 +72,18 @@ form{width:90%}
 .liens-wp a,.liens-wp h6{font-size:13px;color:#fff;text-align:center;font-weight:300;margin-top:3%}
 .mobr,.container,.bb,.mobserv{display:none}
 
+.faq-section{margin:5% auto;width:90%;max-width:900px}
+.faq-section h2{color:#15225e;font-size:35px;margin-bottom:5%}
+.faq-container{display:flex;flex-direction:column;gap:15px}
+.faq-item{background:#fff;border:2px solid #15225e;border-radius:10px;overflow:hidden}
+.faq-item summary{padding:20px;font-size:18px;font-weight:600;color:#15225e;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary::after{content:'+';font-size:24px;font-weight:bold;color:#15225e;transition:transform 0.3s}
+.faq-item[open] summary::after{content:'-'}
+.faq-item[open] summary{background:#15225e;color:#fff}
+.faq-item[open] summary::after{color:#fff}
+.faq-item p{padding:20px;margin:0;text-align:left;font-size:16px;line-height:1.6;background:#f9f9f9}
+
 .hp-wrap {
     position: absolute !important;
     left: -9999px !important;
@@ -144,4 +156,8 @@ body{margin-top:17%}
 .form-contact button:hover{background-color:#ffbd5a}
 form{width:95%}
 .pcr,.servi1,.servi2{display:none}
+.faq-section{margin:10% auto;width:95%}
+.faq-section h2{font-size:25px;margin-bottom:8%}
+.faq-item summary{padding:15px;font-size:16px}
+.faq-item p{padding:15px;font-size:15px}
 }

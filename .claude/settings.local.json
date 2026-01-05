@@ -14,7 +14,9 @@
       "Bash(then sed -i 's/<input type=\"\"hidden\"\" name=\"\"_template\"\" value=\"\"table\"\">//g' \"$file\")",
       "Bash(fi)",
       "Bash(done)",
-      "Bash(xxd:*)"
+      "Bash(xxd:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
