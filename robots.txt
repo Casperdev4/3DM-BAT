@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /traitement.php
-Disallow: /mentions-legales.html
+Allow: /
+
 Sitemap: https://pro-assainissement-93.fr/sitemap.xml

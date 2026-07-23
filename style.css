@@ -420,6 +420,17 @@ hr{width:clamp(80px,12vw,170px)}
   box-shadow:0 10px 24px rgba(255,189,90,.32)}
 .form-contact button:hover{background:#fff;color:var(--bleu);box-shadow:0 14px 30px rgba(0,0,0,.30)}
 
+#contactThanks{width:min(580px,92%);margin:var(--gap-xl) auto;padding:clamp(28px,4vw,44px) var(--gap-m);
+  text-align:center;border-radius:24px;border:1px solid rgba(255,255,255,.12);
+  background:var(--degrade) no-repeat top/100% 4px,
+  radial-gradient(120% 80% at 50% -15%,rgba(255,189,90,.20),transparent 62%),
+  linear-gradient(160deg,#1d2c78 0%,var(--bleu) 58%);
+  box-shadow:var(--ombre-l),inset 0 1px 0 rgba(255,255,255,.14);
+  animation:faqIn .45s cubic-bezier(.2,.8,.3,1) both}
+#contactThanks h3{max-width:none;margin:0 0 10px;padding:0;color:var(--or);
+  font-size:clamp(1.3rem,2.2vw,1.7rem);font-weight:700}
+#contactThanks p{max-width:none;margin:0;padding:0;color:rgba(255,255,255,.88);font-size:1.05rem}
+
 @media screen and (max-width:767.98px){
   :root{--nav-h:70px}
   .logo{width:145px;height:58px}
